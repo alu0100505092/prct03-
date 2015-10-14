@@ -2,3 +2,8 @@ Respuestas a las preguntas de la practica 3
 
 
 Las multiples ramas nos permiten mantener distintas lineas de desarrollo diferentes.
+
+
+
+
+La ventaja de reorganizar es que nos deja un registro mas claro, el registro de una rama reorganizada aparece siempre como un registro lineal, como si todo el trabajo se hubiera realizado en series aunque realmente se haya hecho en paralelo.
